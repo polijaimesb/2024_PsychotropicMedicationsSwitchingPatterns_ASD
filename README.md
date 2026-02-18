@@ -28,7 +28,7 @@ To observe individual-level shifts in medications, we identified new individuals
 For 2019, we extracted the new patients with just one medication prescribed between SSRIs, aripiprazole, or risperidone for each of the months. Then, we verified if those patients had one medication prescribed the next month and took out the name of it. Individuals who passed the two criteria were followed through the next months. A new patient can be part of the subsequent month's analysis if the patient did not receive medication from SSRIs or Atypical Antipsychotics the previous month. We constructed a Sankey Diagram using the networkD3 library from R to examine the patterns found. 
 
 ### Publication 
-This code supports the analysis intended to be published in a research letter in the next months.  
+Jaimes-Buitron, P.A., Neely, L., Svoboda, M.D. et al. Utilization of psychotropic medications in individuals with autism spectrum disorder. BMC Psychiatry 26, 72 (2026). https://doi.org/10.1186/s12888-025-07714-2 
 
 
 
